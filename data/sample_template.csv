@@ -1,0 +1,11 @@
+Order Date,Category,Region,Sales,Profit,Quantity,Product Name
+2026-01-01,Technology,East,1200,300,3,Smart Watch Pro
+2026-01-02,Furniture,West,850,120,2,Ergonomic Chair
+2026-01-03,Office Supplies,Central,150,45,10,Premium Markers
+2026-01-04,Technology,South,2100,650,1,High-End Laptop
+2026-01-05,Furniture,East,450,80,1,Wooden Side Table
+2026-01-06,Office Supplies,West,95,20,5,Glue Sticks
+2026-01-07,Technology,East,1500,400,2,Wireless Headphones
+2026-01-08,Furniture,Central,1100,150,1,Office Desk
+2026-01-09,Office Supplies,South,220,60,8,Binder Clips
+2026-01-10,Technology,West,1800,500,1,4K Monitor
