@@ -48,5 +48,4 @@ FUTURE_ML_01/
 - **Plotly**: Dynamic visualizations
 - **Matplotlib/Seaborn**: Static report plots
 
-## License
-MIT License
+
