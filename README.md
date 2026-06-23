@@ -1,4 +1,4 @@
-# Sales & Demand Forecasting | Task 1 (Internship)
+# Sales & Demand Forecasting |
 
 ## Project Overview
 This project targets **Sales & Demand Forecasting** for businesses using historical sales data. It leverages Machine Learning models (Random Forest and XGBoost) to predict future demand, enabling informed decision-making for inventory and resource management.
